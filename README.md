@@ -6,7 +6,7 @@
 
   <h3>🐍 Python | 🤖 AI Enthusiast | 🎨 Frontend Rookie</h3>
   
-  <p>I'm a school student at <b>IISJ</b> exploring the dark arts of Artificial Intelligence and Web Dev.</p>
+  <p>I'm a college student at <b>CIT Chennai</b> exploring the dark arts of Artificial Intelligence and Web Dev.</p>
 
   ---
 
